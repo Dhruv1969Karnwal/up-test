@@ -1,1 +1,1 @@
-print("config.py version 2.0.0")
+print("config.py version 3.0.0")
