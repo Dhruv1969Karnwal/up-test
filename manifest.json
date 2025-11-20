@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "files_add": [
+    "app.py",
+    "app.json",
+    ".gitignore",
+    "config/config.py"
+  ],
+  "files_edit": [],
+  "files_delete": [],
+  "build_date": "2025-11-20T18:16:26.656802"
+}
