@@ -1,15 +1,11 @@
 {
-  "version": "6.0.0",
+  "version": "7.0.0",
   "files_add": [],
   "files_edit": [
-    "extra_new.py",
-    "config/extra.py",
-    "local_version.json",
-    "local_manifest.json",
+    "config/config.py",
     "app.json",
-    "app.py",
-    "config/config.py"
+    "extra_new.py"
   ],
   "files_delete": [],
-  "build_date": "2025-11-21T07:55:58.641325"
+  "build_date": "2025-11-21T07:57:55.550467"
 }
