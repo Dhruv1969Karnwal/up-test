@@ -1,13 +1,14 @@
 {
-  "version": "4.0.0",
-  "files_add": [],
-  "files_edit": [
-    "config/extra.py",
-    "version.json",
-    "config/config.py",
-    "manifest.json",
-    "app.json"
+  "version": "5.0.0",
+  "files_add": [
+    "local_version.json",
+    "local_manifest.json",
+    "requirements.txt"
   ],
-  "files_delete": [],
-  "build_date": "2025-11-21T07:37:44.666505"
+  "files_edit": [],
+  "files_delete": [
+    "version.json",
+    "manifest.json"
+  ],
+  "build_date": "2025-11-21T07:50:59.787975"
 }

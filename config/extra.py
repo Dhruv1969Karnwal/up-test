@@ -1,1 +1,1 @@
-print("config/extra.py version 4.0.0")
+print("config/extra.py version 6.0.0")
