@@ -1,0 +1,13 @@
+{
+  "version": "4.0.0",
+  "files_add": [],
+  "files_edit": [
+    "config/extra.py",
+    "version.json",
+    "config/config.py",
+    "manifest.json",
+    "app.json"
+  ],
+  "files_delete": [],
+  "build_date": "2025-11-21T07:37:44.666505"
+}
