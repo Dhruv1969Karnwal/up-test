@@ -1,1 +1,0 @@
-print("app.py version 6.0.0")

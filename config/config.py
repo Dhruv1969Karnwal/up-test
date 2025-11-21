@@ -1,1 +1,0 @@
-print("config.py version 7.0.0")
