@@ -1,11 +1,12 @@
 {
-  "version": "7.0.0",
+  "version": "8.0.0",
   "files_add": [],
   "files_edit": [
-    "config/config.py",
-    "app.json",
-    "extra_new.py"
+    "app.json"
   ],
-  "files_delete": [],
-  "build_date": "2025-11-21T07:57:55.550467"
+  "files_delete": [
+    "app.py",
+    "config/config.py"
+  ],
+  "build_date": "2025-11-21T07:59:17.921246"
 }
